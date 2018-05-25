@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome on Analysing Curves</title>
-    <link>https://analysingcurves.github.io/</link>
+    <link>/</link>
     <description>Recent content in Welcome on Analysing Curves</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://analysingcurves.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Speakers</title>
-      <link>https://analysingcurves.github.io/speakers/</link>
+      <link>/speakers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://analysingcurves.github.io/speakers/</guid>
+      <guid>/speakers/</guid>
       <description>Dr Márton Sóskuthy is a lecturer in phonetics and phonology in the Department of Language and Linguistic Science at the University of York. His main interests are sound change, phonetics and phonology, and their interactions. He uses computational simulations and statistical modelling to approach questions in these areas.
 Sóskuthy, M. (2017). Generalised Additive Mixed Models for dynamic analysis in linguistics: A practical introduction. arXiv:1703.05339
  Home  |  Twitter |  GitHub</description>
@@ -22,38 +22,49 @@ Sóskuthy, M. (2017). Generalised Additive Mixed Models for dynamic analysis in 
     
     <item>
       <title>The workshop</title>
-      <link>https://analysingcurves.github.io/the-workshop/</link>
+      <link>/the-workshop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://analysingcurves.github.io/the-workshop/</guid>
+      <guid>/the-workshop/</guid>
       <description>This training workshop will focus on two statistical methods for analysing dynamic data: Generalised Additive Mixed Modelling (GAMM) and Functional Data Analysis (FDA). These techniques provide more comprehensive ways of data modelling in comparison to some traditional methods, e.g. linear regression. This is a very welcome development for experimental linguists and psychologists, who typically work with non-linear signals, such as the output of acoustic analysis, tongue movement trajectories, electroencephalography data, or eye movement trajectories.</description>
     </item>
     
     <item>
-      <title>Registration</title>
-      <link>https://analysingcurves.github.io/registration/</link>
+      <title>Schedule</title>
+      <link>/schedule/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://analysingcurves.github.io/registration/</guid>
+      <guid>/schedule/</guid>
+      <description>The workshop will be held in the SALC Graduate School, which is located in the ground floor of the Ellen Wilkinson building (see Practical info). The sessions will run in the Conference Room (1 floor via the Graduate School). Breaks and lunches will take place in the Atrium of the Graduate School (ground floor).
+  Tuesday 29th May 10.00-10.50 Installation session and registration    10.50-11.00 Welcome    11.</description>
+    </item>
+    
+    <item>
+      <title>Registration</title>
+      <link>/registration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/registration/</guid>
       <description>Who can apply We welcome researchers in Linguistics and Psychology. PhD students and early career researchers are particularly encouraged to attend. Students and unaffiliated researchers will benefit from a reduced registration fee.
 The workshop will require some degree of background in R and statistical analysis. Experience with linear mixed effects regression would be beneficial for the GAMM part, while general knowledge of Principal Component Analysis and basic calculus (the concepts of derivative and of definite integral) would be beneficial (but not essential) for the FDA part.</description>
     </item>
     
     <item>
       <title>Practical info</title>
-      <link>https://analysingcurves.github.io/practical-info/</link>
+      <link>/practical-info/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://analysingcurves.github.io/practical-info/</guid>
-      <description>We ask the participants to make their own travel and accommodation arrangements. You will find some practical tips in this regard here.</description>
+      <guid>/practical-info/</guid>
+      <description>The venue The workshop will take place in the Graduate School, in the Ellen Wilkinson building.
+ Travel and acommodation We ask the participants to make their own travel and accommodation arrangements. You will find some practical tips in this regard here.</description>
     </item>
     
     <item>
       <title>Organisers</title>
-      <link>https://analysingcurves.github.io/organisers/</link>
+      <link>/organisers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://analysingcurves.github.io/organisers/</guid>
+      <guid>/organisers/</guid>
       <description>Dr Patrycja Strycharczuk (main organiser):  Home  |  Twitter
 Stefano Coretta:  Home  |  Twitter |  GitHub
 Massimiliano Canzi:  Twitter</description>
@@ -61,10 +72,10 @@ Massimiliano Canzi:  Twitter</description>
     
     <item>
       <title>Contact</title>
-      <link>https://analysingcurves.github.io/contact/</link>
+      <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://analysingcurves.github.io/contact/</guid>
+      <guid>/contact/</guid>
       <description> Send  </description>
     </item>
     

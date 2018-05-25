@@ -3,57 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://analysingcurves.github.io/</loc>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>https://analysingcurves.github.io/speakers/</loc>
+    <loc>/speakers/</loc>
   </url>
   
   <url>
-    <loc>https://analysingcurves.github.io/the-workshop/</loc>
+    <loc>/the-workshop/</loc>
   </url>
   
   <url>
-    <loc>https://analysingcurves.github.io/registration/</loc>
+    <loc>/schedule/</loc>
   </url>
   
   <url>
-    <loc>https://analysingcurves.github.io/practical-info/</loc>
+    <loc>/registration/</loc>
   </url>
   
   <url>
-    <loc>https://analysingcurves.github.io/organisers/</loc>
+    <loc>/practical-info/</loc>
   </url>
   
   <url>
-    <loc>https://analysingcurves.github.io/contact/</loc>
+    <loc>/organisers/</loc>
   </url>
   
   <url>
-    <loc>https://analysingcurves.github.io/authors/</loc>
+    <loc>/contact/</loc>
   </url>
   
   <url>
-    <loc>https://analysingcurves.github.io/categories/</loc>
+    <loc>/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://analysingcurves.github.io/tags/config/</loc>
+    <loc>/tags/config/</loc>
   </url>
   
   <url>
-    <loc>https://analysingcurves.github.io/tags/og/</loc>
+    <loc>/tags/og/</loc>
   </url>
   
   <url>
-    <loc>https://analysingcurves.github.io/page/</loc>
+    <loc>/page/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://analysingcurves.github.io/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
